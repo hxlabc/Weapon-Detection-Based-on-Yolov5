@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="images">
+    <file>icons/arrow-down.png</file>
+    <file>icons/arrow-up.png</file>
+    <file>icons/PyDracula.png</file>
+    <file>icons/setting.png</file>
+    <file>icons/fangda.png</file>
+    <file>icons/normal.png</file>
+    <file>icons/rocket.png</file>
+    <file>icons/black.png</file>
+    <file>icons/black2.png</file>
+    <file>icons/camera.png</file>
+    <file>icons/picture.png</file>
+    <file>icons/exit.png</file>
+    <file>icons/jian.png</file>
+    <file>icons/video.png</file>
+  </qresource>
+</RCC>
